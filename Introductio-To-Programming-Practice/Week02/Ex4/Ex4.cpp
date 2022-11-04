@@ -30,4 +30,5 @@ int main()
 
 	cout << "The result number is: " << resultNumber;
 
+	return 0;
 }

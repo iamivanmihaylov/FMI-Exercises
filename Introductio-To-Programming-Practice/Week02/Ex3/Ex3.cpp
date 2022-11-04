@@ -15,4 +15,6 @@ int main()
 	int seconds = inputSeconds % 86400 % 3600 % 60;
 
 	cout << days << " days, " << hours << " hours, " << minutes << " minutes, " << seconds << " seconds.";
+
+	return 0;
 }
